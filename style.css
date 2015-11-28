@@ -12,11 +12,7 @@ body{
 a{
 	text-decoration: none;
 }
-<<<<<<< HEAD
-/*comment of line of code*/
-=======
-/*comment*/
->>>>>>> refs/remotes/origin/master
+
 a:link, a:visited{
 	color: #74AFAD;
 
