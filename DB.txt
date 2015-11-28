@@ -1,3 +1,5 @@
+//teste
+
 CREATE TABLE IF NOT EXISTS Users (
 	idUser INTEGER NOT NULL ,
 	username VARCHAR(15),
